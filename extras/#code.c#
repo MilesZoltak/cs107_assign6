@@ -1,0 +1,15 @@
+
+//Practice environment for code
+#include "samples/prototypes.h"
+#include <getopt.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <stdbool.h>
+
+int main(int argc, char *argv[]) {
+    char *str = "miles zoltak";
+    char *ltr = "z";
+    
+    return 0;
+}

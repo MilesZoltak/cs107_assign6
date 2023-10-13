@@ -1,0 +1,5 @@
+break *0x40160c
+commands 1
+p "nice"
+signal SIGKILL
+end

@@ -1,0 +1,5 @@
+break 0x0000000000400566
+commands 1
+p "nice"
+signal SIGKILL
+end

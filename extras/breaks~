@@ -1,0 +1,5 @@
+break *0x400566
+  commands
+    p "nice"
+    signal SIGKILL
+  end
